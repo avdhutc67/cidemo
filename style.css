@@ -1,0 +1,58 @@
+.container
+{
+	/*border: 1px solid;*/
+}
+.navbar-default
+{
+	background-color: rgb(0,0,0);
+}
+.navbar-default .navbar-nav > li > a
+{
+	color: white;
+}
+.logo
+{
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.content
+{
+	overflow: auto;
+	margin: 2% 0;
+
+}
+.content figure img
+{
+	width: 100%;
+}
+.content figure p
+{
+	text-align: justify;
+	font-size: 120%;
+}
+footer
+{
+	background-color: #ccc;
+}
+footer h2
+{
+	font-size: 120%;
+	color: rgba(0,0,0,0.5);
+}
+footer ul
+{
+	padding: 0px;
+}
+footer ul li
+{
+	list-style-type: none;
+}
+footer ul li a
+{
+	color: #f60d41;
+}
+footer ul li a:hover
+{
+	text-decoration: none;
+	color: #fff;
+}
